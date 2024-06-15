@@ -1,6 +1,5 @@
 code for tesing cpu scheduling algorithm
 ==========
-- - -
 
 -First In First Out
 
